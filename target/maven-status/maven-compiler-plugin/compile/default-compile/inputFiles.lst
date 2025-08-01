@@ -1,0 +1,13 @@
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/LocationServiceApplication.java
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/controller/LocationController.java
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/dto/RequestLocationDto.java
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/dto/ResponseLocationDto.java
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/dto/ResponsePackageDto.java
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/dto/Status.java
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/entity/LocationEntity.java
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/exception/ResourceNotFoundException.java
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/feignClient/PackageClient.java
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/mapper/LocationMapper.java
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/repository/LocationRepository.java
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/service/LocationService.java
+/home/djomo/Desktop/location-service/src/main/java/com/matador/location_service/service/impl/LocationServiceImpl.java
