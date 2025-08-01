@@ -1,0 +1,14 @@
+com/matador/location_service/dto/Status.class
+com/matador/location_service/dto/RequestLocationDto.class
+com/matador/location_service/service/impl/LocationServiceImpl.class
+com/matador/location_service/exception/ResourceNotFoundException.class
+com/matador/location_service/repository/LocationRepository.class
+com/matador/location_service/controller/LocationController.class
+com/matador/location_service/entity/LocationEntity.class
+com/matador/location_service/feignClient/PackageClient.class
+com/matador/location_service/LocationServiceApplication.class
+com/matador/location_service/dto/ResponsePackageDto.class
+com/matador/location_service/service/LocationService.class
+com/matador/location_service/mapper/LocationMapper.class
+com/matador/location_service/mapper/LocationMapperImpl.class
+com/matador/location_service/dto/ResponseLocationDto.class
